@@ -1,0 +1,16 @@
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.exe
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.deps.json
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.runtimeconfig.json
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.runtimeconfig.dev.json
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\EncryptionBugDemo.pdb
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.csproj.AssemblyReference.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.AssemblyInfoInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.AssemblyInfo.cs
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.csproj.CoreCompileInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.csproj.CopyComplete
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.pdb
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\netcoreapp3.1\EncryptionBugDemo.genruntimeconfig.cache

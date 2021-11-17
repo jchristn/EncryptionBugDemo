@@ -1,0 +1,17 @@
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\EncryptionBugDemo.exe
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\EncryptionBugDemo.deps.json
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\EncryptionBugDemo.runtimeconfig.json
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\ref\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\EncryptionBugDemo.pdb
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.csproj.AssemblyReference.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.AssemblyInfoInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.AssemblyInfo.cs
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.csproj.CoreCompileInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.csproj.CopyComplete
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\ref\EncryptionBugDemo.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.pdb
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net6.0\EncryptionBugDemo.genruntimeconfig.cache

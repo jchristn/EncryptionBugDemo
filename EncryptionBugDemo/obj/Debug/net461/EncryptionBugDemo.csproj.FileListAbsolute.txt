@@ -1,0 +1,13 @@
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net461\EncryptionBugDemo.exe.config
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net461\EncryptionBugDemo.exe
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net461\EncryptionBugDemo.pdb
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\bin\Debug\net461\Newtonsoft.Json.dll
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.csproj.AssemblyReference.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.csproj.SuggestedBindingRedirects.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.AssemblyInfoInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.AssemblyInfo.cs
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.csproj.CoreCompileInputs.cache
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.csproj.CopyComplete
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.exe
+c:\code\misc\EncryptionBugDemo\EncryptionBugDemo\obj\Debug\net461\EncryptionBugDemo.pdb
